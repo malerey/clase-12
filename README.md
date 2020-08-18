@@ -1,10 +1,10 @@
 # Reglas del README
 
-## Cuando agregar un README?
+## Cuándo agregar un README?
 
 Siempre que quiera que otra persona vea mi codigo (eso incluye a la docente, y sera evaluado junto con el codigo)
 
-## Que poner en un README?
+## Qué poner en un README?
 
 1. Titulo del proyecto
 
